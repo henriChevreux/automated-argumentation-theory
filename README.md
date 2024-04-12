@@ -83,5 +83,7 @@ After running the pipeline, the output folder should contain:
 - A timestamped `af` file containing the abstract argumentation framework.
 - A timestamped `pkl` file containing the arguments dictionary.
 
+### Notebooks
+The `notebooks` directory increases transparency in the process and results obtained during the training phase of the models.
 
 Enjoy :)
