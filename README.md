@@ -66,7 +66,7 @@ This command initiates the pipeline, processing the specified input file with th
 
 ### Details
 
-- **[input file path]**: Replace this with the path to your input text file that contains the list of arguments, separated by a full stop.
+- **[input file path]**: Replace this with the path to your input text file that contains the list of arguments, separated by a full stop. Example files are included in the `in` folder.
 - **[model type]**: Replace this with the model configuration you wish to use. Currently, two pre-trained models are available:
   -  `simple`: This model is a lightweight version of the model, which aims to balance accuracy with computational complexity, for testing purposes. This is the model used by default.
   -  `advanced`: This model is the more accurate, more complex model. You can use this model by adding the argument `--model advanced` to your command.
